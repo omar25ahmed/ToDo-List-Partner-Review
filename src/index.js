@@ -118,4 +118,3 @@ function wrapclearAllCompletedTasks() {
 }
 
 clearBtn.addEventListener('click', wrapclearAllCompletedTasks);
-
